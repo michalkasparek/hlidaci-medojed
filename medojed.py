@@ -36,6 +36,8 @@ def medojed(vypis=True):
     vysledky = {}
     pocitadlo = 0
 
+    seznam = list(set(seznam))
+
     for odkaz in seznam:
         try:
             dostupnost = kelisova(odkaz)

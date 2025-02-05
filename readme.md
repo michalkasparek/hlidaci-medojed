@@ -31,4 +31,4 @@ Funkcionalita je takhle rozdělená proto, aby vám zůstala svoboda ve druhém 
 - Možnost multiplikace konfiguračních souborů: hlídám knihy sobě, zároveň jiné knihy kamarádovi…
 - Hlídání ceny, např. pro slevy běžeckých bot. (Což už ale bude chtít BeautifulSoup, takže to bude pomalejší a obecně komplikovanjěší.)
 
-Všechny budoucí úpravy rozbijí zpětnou kompatibilitu. Byli jste varování.
+Všechny budoucí úpravy rozbijí zpětnou kompatibilitu. Byli jste varováni.
