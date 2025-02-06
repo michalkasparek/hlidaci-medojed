@@ -1,6 +1,6 @@
 {
     "knihobot.cz": {
-        "je": ">Do košíku<",
-        "neni": ">Pohlídat dostupnost knihy<"
+        "je": [">Do košíku<",">Ukázat podobný kousek<"],
+        "neni": [">Pohlídat dostupnost knihy<"]
     }
 }

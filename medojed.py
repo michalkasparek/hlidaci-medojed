@@ -17,10 +17,12 @@ def medojed(vypis=True):
         if not je:
             print("Tento web neznám, přeskakuji.")
             return None
-        if je in r.text:
-            return True
-        elif neni in r.text:
-            return False
+        for j in je:
+            if j in r.text:
+                return True
+        for n in neni:
+            if n in r.text:
+                return False
         else:
             return None
 
